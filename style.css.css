@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Oval&display=swap');
+
+* { 
+    background: rgb(248, 248, 250);
+}
+/*Header e Menu*/
+.container {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    text-align: center;
+    font-size: 30px;
+    gap: 5px;
+    
+    
+}
+.box {
+    border: 2px solid rgb(3, 0, 0);
+    border-radius: 30px;
+    font-family: 'Nova Oval', cursive;
+}
+
+/*Apenas content*/
+.container2 {
+    border: 2px solid rgb(248, 247, 247);
+    display: grid;
+    grid-template-rows: 500px;
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+    border-radius: 30px;
+    margin-top: 5px;
+    
+}
+.content {
+   border: 2px solid black;
+   border-radius: 30px;
+   font-family: 'Nova Oval', cursive;
+}
+
+
+
+/* Footer */
+
+.container3 {
+    border: 2px solid rgb(250, 247, 247);
+    display: grid;
+    grid-template-rows: 200px;
+    font-size: 30px;
+    width: 100%;
+    border-radius: 30px;
+    margin-top: 5px;
+    
+    
+}
+.main {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 30px;
+    font-family: 'Nova Oval', cursive;
+}
+
+
+
+
+    
